@@ -1,0 +1,64 @@
+p{
+    font-size: 14px;
+    color: #262626;
+}
+
+.section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.main-heading{
+    color: rgb(204,18,18);
+    font-size: 26px;
+}
+.underline{
+    height: 04px;
+    width: 4rem;
+    background-color: #f5e735;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bg-c-light{
+    background-color: #f2f2f2f2;
+}
+.footer a{
+    color:#fff ;
+    text-decoration: none !important;
+}
+
+.footer a:hover{
+    color:gray ;
+}
+.logoFoo{
+    width: 150px;
+    height: 150px;
+}
+.map-section .gmap-frame #gmap_canvas{
+    height: 65vh;
+    width: 100%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.imgBer{
+width:100%;
+height: 230px;
+}
+.sejket{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #262626;
+}
+.vismisval{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.imagesNews{
+    width: 500px;
+    height: 500px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
